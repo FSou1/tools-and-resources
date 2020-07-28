@@ -12,3 +12,7 @@
 ## Source code
 
 * [Carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
+
+## SEO
+
+* [SEO Marketing Hub 2.0](https://backlinko.com/hub/seo)
