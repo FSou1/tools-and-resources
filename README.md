@@ -22,3 +22,7 @@
 ## Music
 
 * [ROYALTY FREE MUSIC by BENSOUND](https://www.bensound.com/)
+
+## APIs
+
+* [Public APIs](https://github.com/public-apis/public-apis)
