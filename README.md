@@ -7,9 +7,10 @@
 * [Free illustrations resources for the web - Make your next project cooler!](https://dev.to/kedark/free-illustrations-resources-for-the-web-make-your-next-project-cooler-525c)
 * [Free resources for web dev](https://dev.to/germanolira/free-web-development-resources-4j28)
 
-## Icons
+## Design
 
 * [Tabler Icons - 550+ fully customizable free SVG icons](https://tablericons.com/)
+* [Generate logo, social media branding, other](https://www.logaster.com/products/)
 
 ## Source code
 
