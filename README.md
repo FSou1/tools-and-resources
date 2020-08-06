@@ -6,6 +6,7 @@
 * [50+ Free tools and resources to create awesome user interfaces (Part 2)](https://dev.to/cruip/50-free-tools-and-resources-to-create-awesome-user-interfaces-part-2-2l02)
 * [Free illustrations resources for the web - Make your next project cooler!](https://dev.to/kedark/free-illustrations-resources-for-the-web-make-your-next-project-cooler-525c)
 * [Free resources for web dev](https://dev.to/germanolira/free-web-development-resources-4j28)
+* [Best Icon Packs for building beautiful web apps](https://dev.to/d__raptis/best-icon-packs-for-building-beautiful-web-apps-e9g)
 
 ## Design
 
