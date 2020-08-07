@@ -7,6 +7,7 @@
 * [Free illustrations resources for the web - Make your next project cooler!](https://dev.to/kedark/free-illustrations-resources-for-the-web-make-your-next-project-cooler-525c)
 * [Free resources for web dev](https://dev.to/germanolira/free-web-development-resources-4j28)
 * [Best Icon Packs for building beautiful web apps](https://dev.to/d__raptis/best-icon-packs-for-building-beautiful-web-apps-e9g)
+* [10 Useful tools for web dev](https://dev.to/liviufromendtest/10-useful-tools-for-web-developers-to-help-you-work-smarter-2eaa)
 
 ## CSS
 
