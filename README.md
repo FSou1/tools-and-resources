@@ -8,6 +8,10 @@
 * [Free resources for web dev](https://dev.to/germanolira/free-web-development-resources-4j28)
 * [Best Icon Packs for building beautiful web apps](https://dev.to/d__raptis/best-icon-packs-for-building-beautiful-web-apps-e9g)
 
+## CSS
+
+* [CSS Layout](https://csslayout.io/)
+
 ## Design
 
 * [Tabler Icons - 550+ fully customizable free SVG icons](https://tablericons.com/)
