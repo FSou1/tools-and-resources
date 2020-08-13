@@ -19,6 +19,7 @@
 * [Tabler Icons - 550+ fully customizable free SVG icons](https://tablericons.com/)
 * [Generate logo, social media branding, other](https://www.logaster.com/products/)
 * [300+ right mix of SVG icons for your project](https://icons.theforgesmith.com/)
+* [Free and weirdly beautiful animations & illustrations](https://www.artify.co/gallery)
 
 ## Source code
 
