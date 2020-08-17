@@ -14,6 +14,10 @@
 
 * [CSS Layout](https://csslayout.io/)
 
+## Product
+
+* [How to build a product without much design background](https://dev.to/nyxtom/how-to-build-a-product-without-much-design-background-i66)
+
 ## Design
 
 * [Tabler Icons - 550+ fully customizable free SVG icons](https://tablericons.com/)
