@@ -9,7 +9,6 @@
 * [Best Icon Packs for building beautiful web apps](https://dev.to/d__raptis/best-icon-packs-for-building-beautiful-web-apps-e9g)
 * [10 Useful tools for web dev](https://dev.to/liviufromendtest/10-useful-tools-for-web-developers-to-help-you-work-smarter-2eaa)
 * [Best Github repositories for developers](https://dev.to/jatinrao/best-github-repositories-for-developers-3735)
-* [6 Awesome Ways To Present Your Code 🔥](https://dev.to/niharrs/6-awesome-ways-to-present-your-code-3jj2)
 
 ## CSS
 
